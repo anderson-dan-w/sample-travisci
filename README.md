@@ -1,2 +1,3 @@
-# sample-travisci
-I can't get travisCI working on an existing repo, so let me start from scratch, see if I can figure it out.
+# sample-travisci [![Build Status](https://travis-ci.org/anderson-dan-w/sample-travisci.svg?branch=master)](https://travis-ci.org/anderson-dan-w/sample-travisci)
+---
+Barebones directory to show how to get TravisCI working on a Python project. I was having trouble with an existing repo, and this helped me understand.
